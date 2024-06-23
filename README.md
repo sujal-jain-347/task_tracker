@@ -11,6 +11,7 @@ for install this app : clone it and run npm install then npm run dev
 
 The website image is given as :
 
+![task_tracker_1](https://github.com/sujal-jain-347/task_tracker/assets/136954858/5709bd76-0e6c-4280-a364-7ef53c9131ff)
+
 ![task_tracker_2](https://github.com/sujal-jain-347/task_tracker/assets/136954858/35b8c6b0-3157-4253-bc05-128bdc2b2866)
 
-![task_tracker_1](https://github.com/sujal-jain-347/task_tracker/assets/136954858/5709bd76-0e6c-4280-a364-7ef53c9131ff)
